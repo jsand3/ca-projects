@@ -1,2 +1,30 @@
-
-https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg
+body{
+  font-family: Helvetiva, sans-serif;
+}
+#header {
+  font-size: 100px;
+  color: khaki;
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+.center-text{
+  text-align: center;
+}
+.bg-green {
+  background-color: mediumspringgreen;
+}
+.bg-red {
+  background-color: lightcoral;
+}
+.bg-blue {
+  background-color: skyblue;
+}
+.bold {
+  font-weight: bold;
+}
+h2 {
+  font-size: 32px;
+  color: white;
+}
+span {
+  color: blue;
+}
